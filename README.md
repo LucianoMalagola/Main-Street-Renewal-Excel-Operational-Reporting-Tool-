@@ -1,4 +1,4 @@
-# **Main Street Renewal – Supply Chain Excel Operational Reporting Tool**
+# **Main Street Renewal – Excel Operational Reporting Tool**
 Interactive Excel Reporting Tool developed for Main Street Renewal’s Supply Chain and Field Services Department, integrating data from multiple SharePoints to monitor KPIs, team performance, and job status across U.S. markets. The tool provides weekly segmentation and KPI visualization using PivotTables, charts, VBA, ActiveX controls and custom VLOOKUP/XLOOKUP to locate work orders.
 
 ## **_Data Privacy Notice_**
